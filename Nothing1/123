@@ -1,0 +1,9 @@
+ublic class Main2 {
+    public static void main(String[] args) {
+        for (int i = -100; i < 100; i++)
+        for (int k = -200; k < 200; k++){
+           
+            System.out.println(k+i);
+        }
+    }
+}
